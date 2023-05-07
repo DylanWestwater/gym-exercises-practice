@@ -7,6 +7,49 @@ h2{
     text-align: center;
     font-size: 50px;
 }
+.chest-exercises {
+  text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
+    
+}
+.back-exercises {
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
+}
+.shoulder-exercises {
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
+}
+.arm-exercises {
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
+}
+.core-exercises {
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
+}
+.leg-exercises {
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
+}
 #menu{
     text-align: center;
     font-size: 40px;
