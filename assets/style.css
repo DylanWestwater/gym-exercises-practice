@@ -1,56 +1,79 @@
-
-h1 {
-    text-align: center;
-    font-size: 80px;
+.exercises {
+    text-align: center; 
+    font-size: 40px; 
 }
-h2{
+.content{
+    padding-top: 300px;
+}
+#menu {
+    position: fixed;
+    top: 0;
     text-align: center;
-    font-size: 50px;
+    width:100%;
+    font-size: 35px;
+    background:rgb(255, 255, 255)
 }
 .chest-exercises {
-  text-align: center;
-    vertical-align: top;
+    text-align: center;
     display: inline-block;
+    min-height: 80vh;
     width: 30%;
     padding-right: 10px;
-    
 }
 .back-exercises {
     text-align: center;
-    vertical-align: top;
     display: inline-block;
+    min-height: 80vh;
     width: 30%;
     padding-right: 10px;
 }
 .shoulder-exercises {
     text-align: center;
-    vertical-align: top;
     display: inline-block;
+    min-height: 80vh;
     width: 30%;
     padding-right: 10px;
 }
 .arm-exercises {
     text-align: center;
-    vertical-align: top;
     display: inline-block;
+    min-height: 80vh;
     width: 30%;
     padding-right: 10px;
 }
 .core-exercises {
     text-align: center;
-    vertical-align: top;
     display: inline-block;
+    min-height: 80vh;
     width: 30%;
     padding-right: 10px;
 }
 .leg-exercises {
     text-align: center;
-    vertical-align: top;
     display: inline-block;
+    min-height: 80vh;
     width: 30%;
     padding-right: 10px;
 }
-#menu{
-    text-align: center;
-    font-size: 40px;
+
+#chest {
+    background: rgb(150, 150, 150);
+}
+
+#back {
+    background: rgb(150, 150, 150);
+}
+
+#shoulders {
+    background: rgb(150, 150, 150);
+}
+
+#arms {
+    background: rgb(150, 150, 150);
+}
+#core {
+    background: rgb(150, 150, 150);
+}
+#legs {
+    background: rgb(150, 150, 150);
 }
